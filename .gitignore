@@ -1,5 +1,4 @@
 # Our Stuff
-config.ts
 config.json
 resources/*
 !resources/.exists
