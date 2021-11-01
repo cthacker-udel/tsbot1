@@ -1,5 +1,6 @@
 # Our Stuff
 config.ts
+config.js
 resources/*
 !resources/.exists
 src/commands/admin/eval.ts
